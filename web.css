@@ -1,0 +1,67 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #dde9f0;
+    font-family: Arial;
+    
+}
+
+div
+{
+    margin: 30px;
+    display: flex;
+    justify-content: center;    
+}
+
+input
+{
+    width: 200px;
+    border-radius: 4px;
+    border: 2px;
+    padding-left: 12px;
+}
+
+form
+{
+    width: 260px;
+    border-radius: 15px ;
+    margin-top: 25px;
+    margin-right: 70px;
+    padding: 80px;
+    border: 1px solid #32cee7;
+    background-color: #7D9D9C;
+}
+
+h1
+{
+    padding: 50px;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+label
+{
+    width: 300px;
+    height: 30px;
+    padding-left: 2px;
+    font-size: 15px;
+}
+
+.sub
+{
+    margin-left: 65px;
+    width: 70px;
+    padding: 8px;  
+    border: 1px;
+    border-radius: 4px;
+}
+
+p
+{
+    margin-left: 5px;
+    padding-top: -1px;
+    padding-bottom: 15px;
+    font-size: 10px;
+}
